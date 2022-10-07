@@ -8,27 +8,27 @@ layout: ../../layouts/MainLayout.astro
 
 ### What is Dashcord ?
 
-[Dashcord](https://github.com/TakshakRamteke/dashcord) is a inhouse student performance monitoring system build for college and acts as a base platform that is used as the base for other inhouse college based projects.
+[Dashcord](https://github.com/TakshakRamteke/dashcord) is a inhouse student performance monitoring system build for college and acts as a base platform that is used to develop other inhouse college projects.
 
-Dashcord is a _web application_ where Teacher Guardian(TG) can **monitor the performance of the students** and **mark their attendance everyday.** Students can directly interact with their respective TG’s through this web application. It solved the problem of students having meet their TG’s face to face every week to give updates and also solves the problem of TG’s to maintain all the useful information of the students coming under them. By using our web application Tg’s can monitor the students performance and can motivate the students who has poor performance.
+Dashcord is a _web application_ where Teacher (TG) can **monitor the performance of the students** and **mark their attendance everyday.** Students can directly interact with their respective teacher's through this web application. It solves the problem of students having to meet their teacher's face to face every week to give updates and also solves the problem of teachers having to maintain all the useful information of the students assigned to them. By using this web application teachers can monitor the students performance and can motivate the students who has poor performance.
 
 ### Scope of Dashcord
 
 ✅ To act as a intermediator in between Teachers and students
 
-✅ To Enhance the TG - Student interaction.
+✅ To Enhance the teacher - Student interaction.
 
 ✅ To Digitalize Teacher Guardian scheme.
 
 ### Application
 
-✅ It Reduces Paperwork for TG.
+✅ It Reduces Paperwork for teacher.
 
-✅ Improves TG Student Communication.
+✅ Improves teacher Student Communication.
 
 ✅ Helpful in Monitoring Student Performance.
 
-✅ Helping a Student Find a Job that Suits His /Her Skill Set.
+✅ Helping Students find a good and fitting job according to their skill set.
 
 ✅ Scouting Student with Exceptional Extra Curricular Talents.
 
