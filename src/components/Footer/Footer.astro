@@ -1,19 +1,27 @@
 ---
-import AvatarList from './AvatarList.astro';
 type Props = {
-	path: string;
+  path: string;
 };
 const { path } = Astro.props as Props;
 ---
 
 <footer>
-	<AvatarList path={path} />
+  Made with 💜 by team <a href='https://github.com/TakshakRamteke/dashcord'
+    >Dashcord</a
+  >
 </footer>
 
 <style>
-	footer {
-		margin-top: auto;
-		padding: 2rem;
-		border-top: 3px solid var(--theme-divider);
-	}
+  footer {
+    margin-top: auto;
+    padding: 2rem;
+    border-top: 3px solid var(--theme-divider);
+    text-align: center;
+  }
+  footer a {
+    font-family: "Lobster", cursive;
+    font-weight: 400;
+    font-size: 1.3rem;
+    color: white;
+  }
 </style>
