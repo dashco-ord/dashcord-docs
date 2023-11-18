@@ -6,21 +6,32 @@ layout: ../../layouts/MainLayout.astro
 
 **Welcome to Dashcord!**
 
-This is the `docs` starter template. It contains all of the features that you need to build a Markdown-powered documentation site, including:
+### What is Dashcord ?
 
-- ✅ **Full Markdown support**
-- ✅ **Responsive mobile-friendly design**
-- ✅ **Sidebar navigation**
-- ✅ **Search (powered by Algolia)**
-- ✅ **Multi-language i18n**
-- ✅ **Automatic table of contents**
-- ✅ **Automatic list of contributors**
-- ✅ (and, best of all) **dark mode**
+[Dashcord](https://github.com/TakshakRamteke/dashcord) is a inhouse student performance monitoring system build for college and acts as a base platform that is used to develop other inhouse college projects.
 
-## Getting Started
+Dashcord is a _web application_ where Teacher (TG) can **monitor the performance of the students** and **mark their attendance everyday.** Students can directly interact with their respective teacher's through this web application. It solves the problem of students having to meet their teacher's face to face every week to give updates and also solves the problem of teachers having to maintain all the useful information of the students assigned to them. By using this web application teachers can monitor the students performance and can motivate the students who has poor performance.
 
-To get started with this theme, check out the `README.md` in your new project directory. It provides documentation on how to use and customize this template for your own project. Keep the README around so that you can always refer back to it as you build.
+### Scope of Dashcord
 
-Found a missing feature that you can't live without? Please suggest it on Discord [(#ideas-and-suggestions channel)](https://astro.build/chat) and even consider adding it yourself on GitHub! Astro is an open source project and contributions from developers like you are how we grow!
+✅ To act as a intermediator in between Teachers and students
 
-Good luck out there, Astronaut. 🧑‍🚀
+✅ To Enhance the teacher - Student interaction.
+
+✅ To Digitalize Teacher Guardian scheme.
+
+### Application
+
+✅ It Reduces Paperwork for teacher.
+
+✅ Improves teacher Student Communication.
+
+✅ Helpful in Monitoring Student Performance.
+
+✅ Helping Students find a good and fitting job according to their skill set.
+
+✅ Scouting Student with Exceptional Extra Curricular Talents.
+
+✅ Help's the teacher to keep the records of meetings with respective student.
+
+✅ Makes it easier for the teacher to assign tasks to the students.
